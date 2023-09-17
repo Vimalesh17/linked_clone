@@ -1,0 +1,22 @@
+.icon-button{
+    border: 1px solid black;
+        width: 15.729vw;
+        height: 4.8148148148148 vh;
+        max-height: 4.8148148148148 vh;
+        color: #000099;
+        border-radius: 28px ;
+        font: 16px;
+        margin: 5px auto;
+    
+}
+.icon-image{
+    object-fit:contain;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 12px;
+
+}
+.icon-text{
+margin-left: 8px;
+}
